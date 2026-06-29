@@ -1,3 +1,6 @@
 # Migration scripts generated artifacts (do not commit)
+temp_auto_push.bat
 scripts/migrations/.env.migration
 backups/
+.gitignore
+branch_structure.json
